@@ -1,0 +1,3 @@
+# Algorithms
+contains algorithms of diffrent problems  
+## promotes logical thinking ... 
